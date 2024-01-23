@@ -37,10 +37,10 @@ The survey methodology:
 -	Finding the knowledge gap or future perspectives
 
 Criterias of a paper to be selected for detailed study
-•	The data should be used for computer vision application. 
-•	The data should be publicly available without requiring the author’s consent. 
-•	The data should be used in any livestock phenotype study.
-•	The research paper published since 2015 is contemplated in this study
+-	The data should be used for computer vision application. 
+-	The data should be publicly available without requiring the author’s consent. 
+-	The data should be used in any livestock phenotype study.
+-	The research paper published since 2015 is contemplated in this study
 
 ## 3. Datasets
 
