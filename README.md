@@ -29,6 +29,18 @@ If you have found any missed papers, feel free to send it to us or submit [Pull 
 ## 1. Introduction
 The existing surveys related to the computer vision in livestock are insufficient regarding in-depth coverage, classification, and comparison of each dataset and its application in PLF. The main contribution of this survey is to identify, classify, and comprehensive discussion of public livestock datasets. Moreover, the data acquisition techniques, application scenarios, and baseline evaluations of the selected datasets are highlighted.
 ## 2. Methodology
+The survey methodology:
+-	Setting the study scope
+-	Identifying the inclusion criteria
+-	Selecting the journal paper 
+-	Systematic reviewing of the selected articles.
+-	Finding the knowledge gap or future perspectives
+
+Criterias of a paper to be selected for detailed study
+•	The data should be used for computer vision application. 
+•	The data should be publicly available without requiring the author’s consent. 
+•	The data should be used in any livestock phenotype study.
+•	The research paper published since 2015 is contemplated in this study
 
 ## 3. Datasets
 
