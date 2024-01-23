@@ -16,14 +16,14 @@ If you have found any missed papers, feel free to send it to us or submit [Pull 
 1. Introduction
 2. Methodology
 3. Datasets
--       3.1 Cattle Datasets
--       3.2 Pig Datasets
--       3.3 Poultry Datasets
--       3.4 Other Datasets
+-  3.1 Cattle Datasets
+-  3.2 Pig Datasets
+-  3.3 Poultry Datasets
+-  3.4 Other Datasets
 4. Discussion
--      4.1 Application-wise Datasets
--      4.2 Modality of Image Datasets
--      4.3 Challenges and Prospects in CV Dataset Preparation
+-  4.1 Application-wise Datasets
+-  4.2 Modality of Image Datasets
+-  4.3 Challenges and Prospects in CV Dataset Preparation
 5. Conclusion
 
 # 1. Introduction
