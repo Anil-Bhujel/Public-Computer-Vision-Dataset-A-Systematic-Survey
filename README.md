@@ -3,7 +3,7 @@
 If you have found any missed papers, feel free to send it to us:
 
 1. Use following markdown format.
-   *Author 1, Author 2, and Author 3.* **Paper Title.**  <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
+     *Author 1, Author 2, and Author 3.* **Paper Title.**  <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
 2. If one preprint paper has multiple versions, please use the earliest submitted year.
 3. Display the papers in descending order as per publication date (the latest, the first).
 
