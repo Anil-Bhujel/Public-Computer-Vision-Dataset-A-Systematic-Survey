@@ -4,7 +4,7 @@ If you have found any missed papers, feel free to send it to us or submit [Pull 
 
 1. Use following markdown format.
 +
-             *Author 1, Author 2, and Author 3.* **Paper Title.**  <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
+   *Author 1, Author 2, and Author 3.* **Paper Title.**  <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
 2. If one preprint paper has multiple versions, please use the earliest submitted year.
 3. Display the papers in descending order as per publication date (the latest, the first).
 
@@ -18,14 +18,14 @@ If you have found any missed papers, feel free to send it to us or submit [Pull 
 3. Datasets
 -
    3.1 Cattle Datasets
-   3.2 Pig Datasets
-   3.3 Poultry Datasets
-   3.4 Other Datasets
+-  3.2 Pig Datasets
+-  3.3 Poultry Datasets
+ - 3.4 Other Datasets
 4. Discussion
-+
-   4.1 Application-wise Datasets
-   4.2 Modality of Image Datasets
-   4.3 Challenges and Prospects in CV Dataset Preparation
+-
+-  4.1 Application-wise Datasets
+-  4.2 Modality of Image Datasets
+-  4.3 Challenges and Prospects in CV Dataset Preparation
 5. Conclusion
 
 # 1. Introduction
