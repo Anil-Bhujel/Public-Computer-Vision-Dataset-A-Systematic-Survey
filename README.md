@@ -46,10 +46,10 @@ Criterias of a paper to be selected for detailed study
 This section presents the comprehensive study of available public computer vision datasets related to livestock.
 ### 3.1 Cattle Datasets
 Predominant number of datasets belong to Cattle. The links of each Cattle datasets are given below.
--                 [FriesianCattle2015](https://data.bris.ac.uk/data/dataset/wurzq71kfm561ljahbwjhx9n3) (Andrew et al., 2016): https://data.bris.ac.uk/data/dataset/wurzq71kfm561ljahbwjhx9n3
--                 [FriesianCattle2017](https://data.bris.ac.uk/data/dataset/2yizcfbkuv4352pzc32n54371r) (Andrew et al., 2017):
--                 [AerialCattle2017](https://data.bris.ac.uk/data/dataset/3owflku95bxsx24643cybxu3qh) (Andrew et al. 2017)
--                 [Aerial-livestock-dataset](https://github.com/ hanl2010/Aerial-livestock-dataset/releases) (Han et al., 2019)
+-  [FriesianCattle2015](https://data.bris.ac.uk/data/dataset/wurzq71kfm561ljahbwjhx9n3) (Andrew et al., 2016): https://data.bris.ac.uk/data/dataset/wurzq71kfm561ljahbwjhx9n3
+-  [FriesianCattle2017](https://data.bris.ac.uk/data/dataset/2yizcfbkuv4352pzc32n54371r) (Andrew et al., 2017):
+-  [AerialCattle2017](https://data.bris.ac.uk/data/dataset/3owflku95bxsx24643cybxu3qh) (Andrew et al. 2017)
+-  [Aerial-livestock-dataset](https://github.com/ hanl2010/Aerial-livestock-dataset/releases) (Han et al., 2019)
 ### 3.2 Pig Datasets
 
 ### 3.3 Poultry Datasets
