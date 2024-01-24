@@ -43,9 +43,10 @@ Criterias of a paper to be selected for detailed study
 -	The research paper published since 2015 is contemplated in this study
 
 ## 3. Datasets
-
+This section presents the comprehensive study of available public computer vision datasets related to livestock.
 ### 3.1 Cattle Datasets
-
+Predominant number of datasets belong to Cattle. The links of each Cattle datasets are given below.
+-                [FriesianCattle2015](https://data.bris.ac.uk/data/dataset/wurzq71kfm561ljahbwjhx9n3) (Andrew et al., 2016): https://data.bris.ac.uk/data/dataset/wurzq71kfm561ljahbwjhx9n3 
 ### 3.2 Pig Datasets
 
 ### 3.3 Poultry Datasets
