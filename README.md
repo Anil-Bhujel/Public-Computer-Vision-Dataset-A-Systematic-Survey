@@ -48,14 +48,25 @@ This section presents the comprehensive study of available public computer visio
 Predominant number of datasets belong to Cattle. The links of each Cattle datasets are given below.
 -  [FriesianCattle2015](https://data.bris.ac.uk/data/dataset/wurzq71kfm561ljahbwjhx9n3) (Andrew et al., 2016): https://data.bris.ac.uk/data/dataset/wurzq71kfm561ljahbwjhx9n3
 -  [FriesianCattle2017](https://data.bris.ac.uk/data/dataset/2yizcfbkuv4352pzc32n54371r) (Andrew et al., 2017):
--  [AerialCattle2017](https://data.bris.ac.uk/data/dataset/3owflku95bxsx24643cybxu3qh) (Andrew et al. 2017)
--  [Aerial-livestock-dataset](https://github.com/ hanl2010/Aerial-livestock-dataset/releases) (Han et al., 2019)
+-  [AerialCattle2017](https://data.bris.ac.uk/data/dataset/3owflku95bxsx24643cybxu3qh) (Andrew et al. 2017):
+-  [Aerial-livestock-dataset](https://github.com/hanl2010/Aerial-livestock-dataset/releases) (Han et al., 2019):
+-  [BeefCattleMuzzle](http://doi.10.5281/zenodo.6324360) (G. Li et al., 2022)
+-  [OpenCows2020](https://data.bris.ac.uk/data/dataset/10m32xl88x2b61zlkkgz3fml17) (Andrew et al., 2021)
+-  [Cows2021](https://data.bris.ac.uk/data/dataset/4vnrca7qw1642qlwxjadp87h7) (Gao et al., 2021)
+-  [Holstein CowRecognition](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/O1ZBSA) (Bhole et al., 2019)
+-  [HolsteinThermalRGB](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/7M108F) (Bhole et al., 2022)
 ### 3.2 Pig Datasets
-
+-  [PNPB dataset](https://drive.google.com/drive/folders/14XUYxM15NAI-zBrntrmQofhLv5otAw5b) (Shirke et al., 2021a)
+-  [PigBehavior](https://data.ncl.ac.uk/articles/dataset/Automated_recognition_of_postures_and_drinking_behaviour_for_the_detection_of_compromised_health_in_pigs/13042619) (Alameer et al., 2020)
+-  [PigFeeding-NNVBehavior](https://data.ncl.ac.uk/articles/dataset/Automatic_recognition_of_feeding_and_foraging_behaviour_in_pigs_using_deep_learning/13084148) (Alameer et al., 2020)
+-  [PigAgonistcBehavior](https://osf.io/wa732/) (Han et al., 2023)
 ### 3.3 Poultry Datasets
-
+-  [ChickenGender](https://drive.google.com/drive/folders/1eGq8dWGL0I3rW2B9eJ_casH0_D3x7R73) (Yao et al., 2020)
+-  [Chicken_Poo](https://data.mendeley.com/datasets/8pnbzpt2k9/1) (Aworinde et al., 2023)
+-  [Poultry_Disease](https://zenodo.org/record/4628934#.YtDNzOxBy1u) (Machuve et al., 2022)
 ### 3.4 Other Datasets
-
+-  [Horse-10](http://www.mackenziemathislab.org/horse10) (Mathis et al., 2019)
+-  [GoatImage](https://data.mendeley.com/datasets/4skwhnrscr/2) (Billah et al., 2022)
 ## 4. Discussion
 
 ### 4.1 Application-wise Datasets
