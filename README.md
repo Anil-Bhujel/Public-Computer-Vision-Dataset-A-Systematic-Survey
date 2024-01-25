@@ -19,7 +19,7 @@ If you have found any missed papers, feel free to send it to us or submit [Pull 
 -  3.1 Cattle Datasets
 -  3.2 Swine Datasets
 -  3.3 Poultry Datasets
--  3.4 Other Datasets
+-  3.4 Other Livestock Datasets
 4. Discussion
 -  4.1 Application-wise Datasets
 -  4.2 Modality of Image Datasets
