@@ -17,7 +17,7 @@ If you have found any missed papers, feel free to send it to us or submit [Pull 
 2. Methodology
 3. Datasets
 -  3.1 Cattle Datasets
--  3.2 Pig Datasets
+-  3.2 Swine Datasets
 -  3.3 Poultry Datasets
 -  3.4 Other Datasets
 4. Discussion
