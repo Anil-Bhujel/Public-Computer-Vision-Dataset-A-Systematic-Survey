@@ -14,17 +14,17 @@ If you have found any missed papers, feel free to send it to us or submit [Pull 
 
 ## 🔍 Table of Contents
 ### [1. Introduction](#1-introduction)
-### 2. Methodology
-### 3. Datasets
+### [2. Methodology](#2-methodology)
+### [3. Datasets](#3-datasets)
 -  3.1 Cattle Datasets
 -  3.2 Swine Datasets
 -  3.3 Poultry Datasets
 -  3.4 Other Livestock Datasets
-### 4. Discussion
+### [4. Discussion](#4-discussion)
 -  4.1 Application-wise Datasets
 -  4.2 Modality of Image Datasets
 -  4.3 Challenges and Prospects in CV Dataset Preparation
-### 5. Conclusion
+### [5. Conclusion](#5-conclusion)
 
 ## 1. Introduction
 The existing surveys related to the computer vision in livestock are insufficient regarding in-depth coverage, classification, and comparison of each dataset and its application in PLF. The main contribution of this survey is to identify, classify, and comprehensive discussion of public livestock datasets. Moreover, the data acquisition techniques, application scenarios, and baseline evaluations of the selected datasets are highlighted.
