@@ -93,7 +93,7 @@ jy6hngx7df
 -  [Poultry_Disease](https://zenodo.org/record/4628934#.YtDNzOxBy1u) (Machuve et al., 2022)
 -  [GalliformeSpectra](https://data.mendeley.com/datasets/nk3zbvd5h8/1) (Himel GMS and Islam MM, 2023)
 -  [Broiler Dataset](https://drive.google.com/drive/folders/1jj9LKL0d1YDyDez8xrmKWRWd3psFoeZ2?usp=sharing) (Elmessery et al., 2023)
-### 3.4 Other Datasets
+### 3.4 Other Livestock Datasets
 -  [Horse-10](http://www.mackenziemathislab.org/horse10) (Mathis et al., 2019)
 -  [GoatImage](https://data.mendeley.com/datasets/4skwhnrscr/2) (Billah et al., 2022)
 -  [Drone-goat-detection](https://gitlab.com/inra-urz/drone-goat-detection) (Vayssade et al., 2019)
