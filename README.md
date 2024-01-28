@@ -57,7 +57,7 @@ Predominant number of datasets belong to Cattle. The links of each Cattle datase
 -  [HolsteinThermalRGB](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/7M108F) (Bhole et al., 2022)
 -  [RecBov51c Dataset](https://data.mendeley.com/datasets/8ysxtyf8p2/1) (Weber et al., 2020)
 -  [Cattle-counting](https://vhasoares.github.io/downloads.html) (Soares et al., 2021)
--  [Cattle_Dataset](https://github.com/Ol iver6999/cattle_dataset/tree/main) (Z. Li et al., 2022)
+-  [Cattle_Dataset](https://github.com/Oliver6999/cattle_dataset/tree/main) (Z. Li et al., 2022)
 -  [CowBehavior](https://zenodo.org/record/3981400#.ZDVEXHZBxPY) (Koskela et al., 2022)
 -  [NWAFU_CattleDataset](https://drive.google.com/open?id=1bLQFHd9rqllmEaYvbcAqEBJtlyfuKPdP) (Li et al., 2019)
 -  [CowDatabase](https://github.com/ruchaya/CowDatabase) (Ruchay et al., 2020)
@@ -68,7 +68,7 @@ Predominant number of datasets belong to Cattle. The links of each Cattle datase
 -  [MultiviewC](https://github.com/Jiahao-Ma/MultiviewC) (Ma et al., 2021)
 -  [Aerial Pasture](http://bird.nae-lab.org/cattle/) (Shao et al., 2020)
 -  [Cattle_Visual_Behaviors](https://data.csiro.au/collection/csiro%3A58916v1) (CVB) (Zia et al., 2023)
--  [LShapeAnalyser Dataset](https://gitee.com/kznd/lshape-analyser/tree/master/Dataset/dairy] (Zhang et al., 2023)
+-  [LShapeAnalyser Dataset](https://gitee.com/kznd/lshape-analyser/tree/master/Dataset/dairy) (Zhang et al., 2023)
 ### 3.2 Swine Datasets
 -  [PNPB dataset](https://drive.google.com/drive/folders/14XUYxM15NAI-zBrntrmQofhLv5otAw5b) (Shirke et al., 2021a)
 -  [PigBehavior](https://data.ncl.ac.uk/articles/dataset/Automated_recognition_of_postures_and_drinking_behaviour_for_the_detection_of_compromised_health_in_pigs/13042619) (Alameer et al., 2020)
@@ -85,8 +85,7 @@ Predominant number of datasets belong to Cattle. The links of each Cattle datase
 -  [PigPostureAcitvity](https://drive.google.com/file/d/1DmkR5AyysQkFbMEwjPjJnnNVyGvtsu9H/view) (Bhujel et al., 2021)
 -  [PigTrace](https://drive.google.com/file/d/1s-bCnABh2Hef5l5OxydcY-tkPbrUGSjj/view) (Tangirala et al., 2021)
 -  [LShapeAnalyser Dataset](https://gitee.com/kznd/lshape-analyser/tree/master/Dataset/pig) (Zhang et al., 2023)
--  [DifferentStagesPig](https://data.mendeley.com/datasets/
-vd5vmgr8kg) (Pan et al., 2023) https://data.mendeley.com/datasets/
+-  [DifferentStagesPig](https://data.mendeley.com/datasets/vd5vmgr8kg) (Pan et al., 2023) https://data.mendeley.com/datasets/
 jy6hngx7df
 ### 3.3 Poultry Datasets
 -  [ChickenGender](https://drive.google.com/drive/folders/1eGq8dWGL0I3rW2B9eJ_casH0_D3x7R73) (Yao et al., 2020)
