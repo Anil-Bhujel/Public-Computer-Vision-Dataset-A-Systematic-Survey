@@ -1,6 +1,6 @@
 # Public Computer Vision Dataset for Precision Livestock Farming: A Systematic Survey
 ## How to Contribute?
-If you have found any missed papers, feel free to send it to us or submit [Pull Reuests](https://github.com/Anil-Bhujel/Public-Computer-Vision-Dataset-A-Systematic-Survey/branches):
+If you found any missed papers, feel free to send it to us or submit [Pull Reuests](https://github.com/Anil-Bhujel/Public-Computer-Vision-Dataset-A-Systematic-Survey/branches):
 
 1. Use following markdown format.
 +
