@@ -69,6 +69,10 @@ Predominant number of datasets belong to Cattle. The links of each Cattle datase
 -  [Aerial Pasture](http://bird.nae-lab.org/cattle/) (Shao et al., 2020)
 -  [Cattle_Visual_Behaviors](https://data.csiro.au/collection/csiro%3A58916v1) (CVB) (Zia et al., 2023)
 -  [LShapeAnalyser Dataset](https://gitee.com/kznd/lshape-analyser/tree/master/Dataset/dairy) (Zhang et al., 2023)
+-  [PCD Dataset](https://github.com/colorful-days/0724/tree/master/data) (Hou et al., 2023)
+-  [CattleEyeView](https://github.com/AnimalEyeQ/CattleEyeView?tab=readme-ov-file) (Ong et al., 2023)
+-  [Dairy Cow](https://www.kaggle.com/twisdu/dairycow) (Gong et al., 2022)
+-  [Cows Frontal Face](https://zenodo.org/records/10535934) (Ahmed et al., 2024)
 ### 3.2 Swine Datasets
 -  [PNPB dataset](https://drive.google.com/drive/folders/14XUYxM15NAI-zBrntrmQofhLv5otAw5b) (Shirke et al., 2021a)
 -  [PigBehavior](https://data.ncl.ac.uk/articles/dataset/Automated_recognition_of_postures_and_drinking_behaviour_for_the_detection_of_compromised_health_in_pigs/13042619) (Alameer et al., 2020)
@@ -86,6 +90,7 @@ Predominant number of datasets belong to Cattle. The links of each Cattle datase
 -  [PigTrace](https://drive.google.com/file/d/1s-bCnABh2Hef5l5OxydcY-tkPbrUGSjj/view) (Tangirala et al., 2021)
 -  [LShapeAnalyser Dataset](https://gitee.com/kznd/lshape-analyser/tree/master/Dataset/pig) (Zhang et al., 2023)
 -  [DifferentStagesPig](https://data.mendeley.com/datasets/vd5vmgr8kg) (Pan et al., 2023) https://data.mendeley.com/datasets/jy6hngx7df
+-  [Aggressive-Behavior-Recognition](https://github.com/IPCLab-NEAU/Aggressive-Behavior-Recognition) (Gao et al., 2023)
 ### 3.3 Poultry Datasets
 -  [ChickenGender](https://drive.google.com/drive/folders/1eGq8dWGL0I3rW2B9eJ_casH0_D3x7R73) (Yao et al., 2020)
 -  [Chicken_Poo](https://data.mendeley.com/datasets/8pnbzpt2k9/1) (Aworinde et al., 2023)
@@ -93,16 +98,17 @@ Predominant number of datasets belong to Cattle. The links of each Cattle datase
 -  [GalliformeSpectra](https://data.mendeley.com/datasets/nk3zbvd5h8/1) (Himel GMS and Islam MM, 2023)
 -  [Broiler Dataset](https://drive.google.com/drive/folders/1jj9LKL0d1YDyDez8xrmKWRWd3psFoeZ2?usp=sharing) (Elmessery et al., 2023)
 ### 3.4 Other Livestock Datasets
--  [Horse-10](http://www.mackenziemathislab.org/horse10) (Mathis et al., 2019)
--  [GoatImage](https://data.mendeley.com/datasets/4skwhnrscr/2) (Billah et al., 2022)
--  [Drone-goat-detection](https://gitlab.com/inra-urz/drone-goat-detection) (Vayssade et al., 2019)
--  [Goat-detection](https://doi.org/10.57745/QEZBNA) (Vayssade et al., 2023)
--  [Buffalo-Pak](https://data.mendeley.com/datasets/vdgnxsm692/2) (Rauf, HT and Lali, MIU, 2021)
 -  [SheepBreed](https://data.mendeley.com/datasets/64gkbz8bdb/2) (Abu Jwade et al., 2019)
 -  [SheepBase](https://pan.baidu.com/s/1HgNdEYqAz2SXpEbrmEb8UA) (extraction code: zrcp) (Xue et al., 2021)
 -  [SheepActivity](https://data.mendeley.com/datasets/w65pvb84dg/1) (Kelly et al., 2024) https://data.mendeley.com/datasets/h5ppwx6fn4/1
+-  [LEsheepWeight](https://pan.baidu.com/s/1lkF50WdG6vWCnj1TAw_LjA) (code: 9hks) (He et al., 2023)
+-  [GoatImage](https://data.mendeley.com/datasets/4skwhnrscr/2) (Billah et al., 2022)
+-  [Drone-goat-detection](https://gitlab.com/inra-urz/drone-goat-detection) (Vayssade et al., 2019)
+-  [CherryChevre](https://doi.org/10.57745/QEZBNA) (Vayssade et al., 2023)
+-  [Buffalo-Pak](https://data.mendeley.com/datasets/vdgnxsm692/2) (Rauf, HT and Lali, MIU, 2021)
+-  [Horse-10](http://www.mackenziemathislab.org/horse10) (Mathis et al., 2019)
 ## 4. Discussion
-
+This section presents the critical analysis of public computer vision livestock dataset in terms of species, applications, and image modalities.
 ### 4.1 Application-wise Datasets
 
 ### 4.2 Modality of Image Datasets
