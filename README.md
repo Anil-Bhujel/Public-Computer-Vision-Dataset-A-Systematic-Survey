@@ -110,9 +110,16 @@ Predominant number of datasets belong to Cattle. The links of each Cattle datase
 ## 4. Discussion
 This section presents the critical analysis of public computer vision livestock dataset in terms of species, applications, and image modalities.
 ### 4.1 Application-wise Datasets
+![Figure7](https://github.com/Anil-Bhujel/Public-Computer-Vision-Dataset-A-Systematic-Survey/assets/22301323/b8e7b8bc-e07e-4534-b8b9-4bd2e972eb85)
 
 ### 4.2 Modality of Image Datasets
+![Figure8](https://github.com/Anil-Bhujel/Public-Computer-Vision-Dataset-A-Systematic-Survey/assets/22301323/52895056-0948-4b58-a395-986df43d1029)
 
-### 4.3 Challenges and Prospects in CV Datasets Preparation
-
+### 4.3 Challenges and Prospects in Public CV Livestock Datasets
+Limitations:
+-  [Limited or no metadata to provide the contextual information of the data]
+-  [No uniformity in data collection and annotation due to lack of well-accepted protocols and standards for livestock farming]
+Prospects:
+-  [A collective effort from diverse stakeholders (academia, industry, researchers, and funding agencies) could publish standards and protocols related to data collection and preparation]
+-  [A leading role from the accredited organizations is inevitable in building a large benchmarking database for PLF]
 ## 5. Conclusion
