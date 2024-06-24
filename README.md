@@ -117,9 +117,10 @@ This section presents the critical analysis of public computer vision livestock 
 
 ### 4.3 Challenges and Prospects in Public CV Livestock Datasets
 Limitations:
--  [Limited or no metadata to provide the contextual information of the data]
--  [No uniformity in data collection and annotation due to lack of well-accepted protocols and standards for livestock farming]
+-  Limited or no metadata to provide the contextual information of the data
+-  No uniformity in data collection and annotation due to lack of well-accepted protocols and standards for livestock farming
+
 Prospects:
--  [A collective effort from diverse stakeholders (academia, industry, researchers, and funding agencies) could publish standards and protocols related to data collection and preparation]
--  [A leading role from the accredited organizations is inevitable in building a large benchmarking database for PLF]
+-  A collective effort from diverse stakeholders (academia, industry, researchers, and funding agencies) could publish standards and protocols related to data collection and preparation
+-  A leading role from the accredited organizations is inevitable in building a large benchmarking database for PLF
 ## 5. Conclusion
