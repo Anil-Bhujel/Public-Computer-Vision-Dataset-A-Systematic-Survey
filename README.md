@@ -48,7 +48,7 @@ This section presents the comprehensive study of available public computer visio
 #### 3.1.1 Cattle Detection Datasets
 -  [FriesianCattle2017](https://data.bris.ac.uk/data/dataset/2yizcfbkuv4352pzc32n54371r) (Andrew et al., 2017)
 -  [AerialCattle2017](https://data.bris.ac.uk/data/dataset/3owflku95bxsx24643cybxu3qh) (Andrew et al. 2017)
--  [Aerial-livestock-dataset](https://github.com/ hanl2010/Aerial-livestock-dataset/releases) (Han et al., 2019)
+-  [Aerial-livestock-dataset](https://github.com/hanl2010/Aerial-livestock-dataset/releases) (Han et al., 2019)
 -  [OpenCows2020](https://data.bris.ac.uk/data/dataset/10m32xl88x2b61zlkkgz3fml17)(Andrew et al., 2021)
 -  [Cows2021](https://data.bris.ac.uk/data/dataset/4vnrca7qw1642qlwxjadp87h7) (Gao et al., 2021)
 -  [MultiviewC](https://github.com/Jiahao-Ma/MultiviewC) (Ma et al., 2021)
@@ -67,7 +67,7 @@ This section presents the comprehensive study of available public computer visio
 -  [300-Cattle-Source](https://cloud.une.edu.au/index.php/s/eMwaHAPK08dCDru) (Shojaeipour et al., 2021)
 -  [CattleVideo](https://drive.google.com/file/d/13LZmzb5XcqzUVQo3EiTIf4pur4lFHmZD/view?usp=sharing) (Qiao et al., 2021a)
 -  [CVD Cattle Retinal Image](https://www.kaggle.com/datasets/animalbiometry/cvd-vs-non-cvd-retinal-images-of-cattle) (Cihan et al., 2024)
--  [Cattle_Dataset](https://github.com/Ol iver6999/cattle_dataset/tree/main) (Z. Li et al., 2022)
+-  [Cattle_Dataset](https://github.com/Oliver6999/cattle_dataset/tree/main) (Z. Li et al., 2022)
 
 #### 3.1.3 Cattle Other Datasets
 -  [BCS Cattle Dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.tqjq2bw4s) (Winkler et al., 2024)
@@ -122,7 +122,7 @@ This section presents the comprehensive study of available public computer visio
 -  [SheepBase](https://pan.baidu.com/s/1HgNdEYqAz2SXpEbrmEb8UA) (extraction code: zrcp) (Xue et al., 2021)
 -  [SheepActivity](https://data.mendeley.com/datasets/w65pvb84dg/1) (Kelly et al., 2024) https://data.mendeley.com/datasets/h5ppwx6fn4/1
 -  [LEsheepWeight](https://pan.baidu.com/s/1lkF50WdG6vWCnj1TAw_LjA) (code: 9hks) (He et al., 2023)
--  [DORIS Dataset] [Sheep:] (https://zenodo.org/records/11313800), [Person, Wolf, and Depth Maps:] (https://zenodo.org/records/11313966), and [YOLO Annotations:] (https://zenodo.org/records/11313165) (Yang et al., 2024)
+-  DORIS Dataset [Sheep:](https://zenodo.org/records/11313800), [Person, Wolf, and Depth Maps:](https://zenodo.org/records/11313966), and [YOLO Annotations:](https://zenodo.org/records/11313165) (Yang et al., 2024)
 -  [GoatImage](https://data.mendeley.com/datasets/4skwhnrscr/2) (Billah et al., 2022)
 -  [Drone-goat-detection](https://gitlab.com/inra-urz/drone-goat-detection) (Vayssade et al., 2019)
 -  [CherryChevre](https://doi.org/10.57745/QEZBNA) (Vayssade et al., 2023)
