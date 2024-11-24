@@ -120,7 +120,7 @@ This section presents the comprehensive study of available public computer visio
 ### 3.4 Other Livestock Datasets
 -  [SheepBreed](https://data.mendeley.com/datasets/64gkbz8bdb/2) (Abu Jwade et al., 2019)
 -  [SheepBase](https://pan.baidu.com/s/1HgNdEYqAz2SXpEbrmEb8UA) (extraction code: zrcp) (Xue et al., 2021)
--  SheepActivity [Link1](https://data.mendeley.com/datasets/w65pvb84dg/1) and [Link2](https://data.mendeley.com/datasets/h5ppwx6fn4/1) (Kelly et al., 2024) 
+-  SheepActivity Dataset [Link1](https://data.mendeley.com/datasets/w65pvb84dg/1) and [Link2](https://data.mendeley.com/datasets/h5ppwx6fn4/1) (Kelly et al., 2024) 
 -  [LEsheepWeight](https://pan.baidu.com/s/1lkF50WdG6vWCnj1TAw_LjA) (code: 9hks) (He et al., 2023)
 -  DORIS Dataset [Sheep:](https://zenodo.org/records/11313800), [Person, Wolf, and Depth Maps:](https://zenodo.org/records/11313966), and [YOLO Annotations:](https://zenodo.org/records/11313165) (Yang et al., 2024)
 -  [GoatImage](https://data.mendeley.com/datasets/4skwhnrscr/2) (Billah et al., 2022)
