@@ -103,8 +103,8 @@ This section presents the comprehensive study of available public computer visio
 -  [Aggressive-Behavior-Recognition](https://github.com/IPCLab-NEAU/Aggressive-Behavior-Recognition) (Gao et al., 2023)
 
 #### 3.2.3 Swine Other Datasets
--  [Pig-multi-part-detection](http://psrg.unl.edu/Projects/Details/12-Animal-Tracking) (Psota et al., 2019)
--  [Pig_tracking](http://psrg.unl.edu/Projects/Details/12-Animal-Tracking) (Psota et al., 2020)
+-  [Pig-multi-part-detection](http://psrg.unl.edu/Projects/Details/12-Animal-Tracking) (Psota et al., 2019) (*This link has been down now. If you need this dataset please contact us.)
+-  [Pig_tracking](http://psrg.unl.edu/Projects/Details/12-Animal-Tracking) (Psota et al., 2020) (*This link has been down now. If you need this dataset please contact us.)
 -  [Pig-detection&tracking](https://github.com/MartinWut/Supp_DetAnIn) (Wutke et al., 2021)
 -  [PigTrace](https://drive.google.com/file/d/1s-bCnABh2Hef5l5OxydcY-tkPbrUGSjj/view) (Tangirala et al., 2021)
 -  [LShapeAnalyser Dataset](https://gitee.com/kznd/lshape-analyser/tree/master/Dataset/pig) (Zhang et al., 2023)
