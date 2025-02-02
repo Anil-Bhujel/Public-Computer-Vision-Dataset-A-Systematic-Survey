@@ -9,7 +9,7 @@ We are trying to build a large dataset for PLF like in other application domain.
 3. Display the papers in descending order as per publication date (the latest, the first).
 
 ## Citation
-Bhujel, A., Wang, Y., Lu, Y., Morris, D., Dangol, M. A systematic survey of public computer vision datasets for precision livestock farming.
+        Bhujel, A., Wang, Y., Lu, Y., Morris, D., Dangol, M. A systematic survey of public computer vision datasets for precision livestock farming.
 Computers and Electronics in Agriculture, (229) 2025, 109718. https://doi.org/10.1016/j.compag.2024.109718.
 
 
