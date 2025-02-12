@@ -15,7 +15,7 @@ We are trying to build a large dataset for PLF like in other application domain.
 https://doi.org/10.1016/j.compag.2024.109718.
 
 ## Additional Datasets (Missed to cover in survey or published later)
-- [Multi Animal Mesh Model ALignment (MAMMAL)] (https://github.com/anl13/MAMMAL_datasets.git) (An et al., 2023)
+- [Multi Animal Mesh Model ALignment (MAMMAL)](https://github.com/anl13/MAMMAL_datasets.git) (An et al., 2023)
 
 ## 🔍 Table of Contents
 ### [1. Introduction](#1-introduction)
