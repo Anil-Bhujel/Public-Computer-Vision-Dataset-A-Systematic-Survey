@@ -15,6 +15,9 @@ We are trying to build a large dataset for PLF like in other application domain.
 https://doi.org/10.1016/j.compag.2024.109718.
 
 ## Additional Datasets (Missed to cover in our survey or published later)
+- [Gilt_posture_dataset](https://huggingface.co/datasets/anilbhujel/Gilt_posture_dataset) (Bhujel et al., 2025)
+- [Gilt_tracking_dataset](https://huggingface.co/datasets/anilbhujel/Gilt_tracking_dataset) (Bhujel et al., 2025)
+  
 - [Multi Animal Mesh Model ALignment (MAMMAL)](https://github.com/anl13/MAMMAL_datasets.git) (An et al., 2023)
 - [Poultry CV Datasets Survey](https://doi.org/10.1016/j.psj.2025.104784) (Li et al., 2025) 
 ## 🔍 Table of Contents
