@@ -22,7 +22,7 @@ https://doi.org/10.1016/j.compag.2024.109718.
 
 - [Individual Animal ReID Datasets](https://github.com/DariaKern/IndividualAnimalRe-IDDatasets) (Kern Daria, 2025)
 - [FaroPigSeg & FaroPigReID-33](https://github.com/yudong888/FaroPig-Datasets) (Compte et al., 2025)
-- [Benchmarking Pig Detection](https://doi.org/10.25625/I6UYE9) and [Benchmarking Pig Tracking](https://doi.org/10.25625/P7VQTP) (Henrich et al., 2025)
+- [Benchmarking Pig Detection](https://doi.org/10.25625/I6UYE9) and [Benchmarking Pig Tracking](https://doi.org/10.25625/P7VQTP) (Henrich et al., 2026)
 - [Multi Animal Mesh Model ALignment (MAMMAL)](https://github.com/anl13/MAMMAL_datasets.git) (An et al., 2023)
 - [Poultry CV Datasets Survey](https://doi.org/10.1016/j.psj.2025.104784) (Li et al., 2025) 
 ## 🔍 Table of Contents
